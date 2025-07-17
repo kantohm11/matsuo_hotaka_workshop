@@ -1,0 +1,15 @@
+project: 
+  type: website
+
+website:
+  title: "松尾研合宿研究会"
+  navbar:
+    left:
+     - text: "ホーム"
+       href: index.qmd
+     - text: "タイムテーブル"
+       href: time_table.qmd
+
+format:
+  html:
+    theme: cosmo
