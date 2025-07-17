@@ -126,15 +126,15 @@ ul.task-list li input[type="checkbox"] {
 </thead>
 <tbody>
 <tr class="odd">
-<td>14:00 - 15:00</td>
+<td>13:40 - 14:40</td>
 <td>横山</td>
 </tr>
 <tr class="even">
-<td>15:20 - 16:20</td>
+<td>14:50 - 15:50</td>
 <td>大森</td>
 </tr>
 <tr class="odd">
-<td>16:40 - 17:40</td>
+<td>16:00 - 17:00</td>
 <td>松尾</td>
 </tr>
 </tbody>
@@ -163,15 +163,15 @@ ul.task-list li input[type="checkbox"] {
 <td></td>
 </tr>
 <tr class="even">
-<td>13:30 - 14:30</td>
+<td>13:20 - 14:20</td>
 <td>島村</td>
 </tr>
 <tr class="odd">
-<td>15:00 - 16:00</td>
+<td>14:40 - 15:40</td>
 <td>野下</td>
 </tr>
 <tr class="even">
-<td>16:30 - 17:30</td>
+<td>16:00 - 17:00</td>
 <td>林</td>
 </tr>
 </tbody>
@@ -272,7 +272,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/kantohm11\.github\.io\/matsuo_hotaka_workshop\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
