@@ -2,20 +2,20 @@
 
 ## 1日目 (8月5日)
 
-| 時間            | 発表者 |
-|-----------------|--------|
-| 13:40 - 14:40   | 横山  |
-| 14:50 - 15:50   | 大森   |
-| 16:00 - 17:00   | 松尾   |
+| 時間            | 発表者 | タイトル |
+|----------|--------|---------------|
+| 13:40 - 14:40   | 横山  | 重力と物理量について |
+| 14:50 - 15:50   | 大森   | Cobordism Hypothesis and Witten’s Star Product |
+| 16:00 - 17:00   | 松尾   | A Calogero Model for non-Abelian anyon |
 
 
 ## 2日目 (8月6日)
 
-|時間      |発表者      |
-|--------|---------|
-| 9:30 - 10:30   | 林   |
-| 11:00 - 12:00  | 岸本   |
+|時間      |発表者      | タイトル |
+|----------|--------|---------------|
+| 9:30 - 10:30   | 林   |  6d/5d gauge theories from web diagrams|
+| 11:00 - 12:00  | 岸本   | NS-NS頂点演算子と降下方程式について|
 | 昼休み         |        |
-| 13:20 - 14:20  | 矢萩   |
-| 14:40 - 15:40  | 島村   |
-| 16:00 - 17:00  | 野下     |
+| 13:20 - 14:20  | 矢萩   | Fermionic CFTs from error-correcting codes and Orbifold theories|
+| 14:40 - 15:40  | 島村   | Foilated gauge fields and construction of foilated QFT|
+| 16:00 - 17:00  | 野下     | Pandharipande-Thomas counting and Jeffrey-Kirwan residue |
